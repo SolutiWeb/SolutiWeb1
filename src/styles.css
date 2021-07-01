@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+/*@import 'favicon.ico';*/
+/*@import 'https://use.fontawesome.com/releases/v5.15.3/js/all.js';
+@import 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css';*/
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
+@import 'https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700';
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+@import 'assets/css/styles1.css';
+
+
+/*
+<!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        */
